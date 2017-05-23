@@ -9,7 +9,7 @@ function checkAnswers() {
     quizScore = quizScore + 1
   }
     var questionTwoAnswer = document.querySelector("input[name='q3']:checked").value
-  if (questionTwoAnswer == "a3") {
+  if (questionTwoAnswer == "a2") {
     quizScore = quizScore + 1
   }
     var questionTwoAnswer = document.querySelector("input[name='q4']:checked").value
